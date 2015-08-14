@@ -1,7 +1,7 @@
 name: My blog
 markdown: redcarpet
 pygments: true
-url:
+url: http://zahari.github.io
 paginate: 8
 description: Weekly blog
 intro: Weekly blog
