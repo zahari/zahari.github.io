@@ -1,9 +1,9 @@
 name: My blog
 markdown: redcarpet
 pygments: true
-url: http://zahari.github.io
+url:
 paginate: 8
-description: Jekyll theme for Programmers
+description: Weekly blog
 intro: Weekly blog
 logo:             logo.png
 disqus_shortname:
