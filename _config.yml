@@ -1,10 +1,10 @@
-name: White Paper
+name: My blog
 markdown: redcarpet
 pygments: true
-url: http://vinitkumar.me/white-paper
+url: http://zahari.github.io
 paginate: 8
-description:     Jekyll theme for Programmers
-intro: White Paper is a Jekyll theme most suited to be used on tech blogs that like their content to shine.
+description: Jekyll theme for Programmers
+intro: Weekly blog
 logo:             logo.png
 disqus_shortname:
 # url: http://gotchacode.com
@@ -13,12 +13,12 @@ disqus_shortname:
 
 # Owner/author information
 owner:
-  name:           <your-name-here>
+  name:           Zahari Zahariev
   avatar:         <avatar-image-link>
-  email:          <your-email-address>
+  email:          zahari.zahariev@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:
-  github:
+  github: zahari
   stackexchange:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:
